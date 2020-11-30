@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-narendra-modi.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-narendra-modi.jpg",
     "firstName": "Narendra",
     "lastName": "Modi",
     "party": "BJP",
@@ -19,8 +19,8 @@
   },
   {
     "id": "2",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-amit-shah.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-amit-shah.jpg",
     "firstName": "Amit",
     "lastName": "Shah",
     "party": "BJP",
@@ -37,8 +37,8 @@
   },
   {
     "id": "3",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/congresslogo.jpg",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/congress-sonia-gandhi.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/congresslogo.jpg",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/congress-sonia-gandhi.jpg",
     "firstName": "Sonia",
     "lastName": "Gandhi",
     "party": "CONG",
@@ -55,8 +55,8 @@
   },
   {
     "id": "4",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/congresslogo.jpg",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/cong-rahul-gandhi.JPG",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/congresslogo.jpg",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/cong-rahul-gandhi.JPG",
     "firstName": "Rahul",
     "lastName": "Gandhi",
     "party": "CONG",
@@ -73,8 +73,8 @@
   },
   {
     "id": "5",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-rajnath-singh.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-rajnath-singh.jpg",
     "firstName": "RajNath",
     "lastName": "Singh",
     "party": "BJP",
@@ -91,8 +91,8 @@
   },
   {
     "id": "6",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-kiron-kher.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-kiron-kher.jpg",
     "firstName": "Kiron",
     "lastName": "Kher",
     "party": "BJP",
@@ -109,8 +109,8 @@
   },
   {
     "id": "7",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-gautam-ghambhir.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-gautam-ghambhir.jpg",
     "firstName": "Gautam",
     "lastName": "Gambhir",
     "party": "BJP",
@@ -128,7 +128,7 @@
   {
     "id": "8",
     "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/splogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/samajvadi-akhilesh-yadav.jpg",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/samajvadi-akhilesh-yadav.jpg",
     "firstName": "Akhilesh",
     "lastName": "Yadav",
     "party": "SP",
@@ -145,8 +145,8 @@
   },
   {
     "id": "9",
-    "logo": "",
-    "imageUrl": "",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/bjpLogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/bjp-smirti-irani.jpg",
     "firstName": "Smriti",
     "lastName": "Irani",
     "party": "BJP",
@@ -163,8 +163,8 @@
   },
   {
     "id": "10",
-    "logo": "https://github.com/Tushar1998/json-data-server/blob/master/assets/ysrcplogo.png",
-    "imageUrl": "https://github.com/Tushar1998/json-data-server/blob/master/assets/ysrcp-krishna-raju.jpg",
+    "logo": "https://tushar1998.github.io/json-data-server/assets/ysrcplogo.png",
+    "imageUrl": "https://tushar1998.github.io/json-data-server/assets/ysrcp-krishna-raju.jpg",
     "firstName": "K.R.R. Krishna",
     "lastName": "Raju",
     "party": "YSRCP",
