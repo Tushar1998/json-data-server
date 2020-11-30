@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "logo" : "",
-        "imageUrl":"",
+        "logo" : "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
+        "imageUrl":"https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-narendra-modi.jpg",
         "firstName":"Narendra",
         "lastName":"Modi",
         "party":"BJP",
@@ -19,8 +19,8 @@
     },
     {
         "id": "2",
-        "logo" : "",
-        "imageUrl":"",
+        "logo" : "https://github.com/Tushar1998/json-data-server/blob/master/assets/bjpLogo.png",
+        "imageUrl":"https://github.com/Tushar1998/json-data-server/blob/master/assets/bjp-amit-shah.jpg",
         "firstName":"Amit",
         "lastName":"Shah",
         "party":"BJP",
