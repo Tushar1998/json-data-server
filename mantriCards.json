@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "logo" : "",
+        "imageUrl":"",
+        "firstName":"Narendra",
+        "lastName":"Modi",
+        "party":"BJP",
+        "place":"Varanasi",
+        "country":"UP",
+        "birthYear":"1950",
+        "Number of Terms":"2",
+        "Education":"Post Graduate",
+        "Criminal Case":"0",
+        "Assets":"₹2.5(Cr)",
+        "Liabilities":"₹0(Cr)",
+        "Vote Share": "63.62%",
+        "email":"narendra.modi@bjp.in"
+    },
+    {
+        "id": "2",
+        "logo" : "",
+        "imageUrl":"",
+        "firstName":"Amit",
+        "lastName":"Shah",
+        "party":"BJP",
+        "place":"Gandhinagar",
+        "country":"GJ",
+        "birthYear":"1964",
+        "Number of Terms":"1",
+        "Education":"12th Pass",
+        "Criminal Case":"4(4)",
+        "Assets":"₹40.3(Cr)",
+        "Liabilities":"₹0.477(Cr)",
+        "Vote Share": "69.67%",
+        "email":"amit.shah@bjp.in"
+    }
+]
